@@ -8,3 +8,5 @@ Whether you're creating a game, an animated film, or any other type of interacti
 
 Check out the tool at https://assetstore.unity.com/packages/tools/animation/geppetto-ai-powered-lip-sync-animation-228676
 
+You can find the elements of the notice in the "Example" folder on this repository.
+
